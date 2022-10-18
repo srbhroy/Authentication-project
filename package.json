@@ -1,0 +1,17 @@
+{
+  "name": "login-project",
+  "version": "1.0.0",
+  "description": "A simple authentication project using passport.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node.js",
+    "passport.js",
+    "express.js",
+    "authentication"
+  ],
+  "author": "Sourabh Roy",
+  "license": "ISC"
+}
